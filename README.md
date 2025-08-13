@@ -50,13 +50,19 @@ CREATE DATABASE forohub_db;
 
 
 Code
-src/main/java/com/example/forohub
+src/main/java/forohub
 ├── controller/       # Controladores REST (manejan las peticiones HTTP)
+
 ├── dto/              # Data Transfer Objects (para validaciones y transferencia de datos)
+
 ├── exception/        # Manejadores de excepciones globales
+
 ├── model/            # Entidades JPA (representan las tablas de la BD)
+
 ├── repository/       # Interfaces de Spring Data JPA (para interactuar con la BD)
+
 ├── security/         # Clases relacionadas con Spring Security y JWT
+
 └── service/          # Lógica de negocio
 
 
