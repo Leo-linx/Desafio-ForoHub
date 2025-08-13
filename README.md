@@ -44,8 +44,11 @@ code
 SQL
 CREATE DATABASE forohub_db;
 
+
+
 🗂️ Estructura del Proyecto (Simplificada)
-code
+
+
 Code
 src/main/java/com/example/forohub
 ├── controller/       # Controladores REST (manejan las peticiones HTTP)
