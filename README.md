@@ -12,7 +12,9 @@ Base de Datos PostgreSQL: Persistencia de datos robusta y confiable.
 
 🛠️ Tecnologías Utilizadas
 Lenguaje: Java 17
+
 Framework: Spring Boot 3
+
 Dependencias Principales:
 spring-boot-starter-web: Para la creación de la API REST.
 spring-boot-starter-data-jpa: Para la persistencia de datos con JPA y Hibernate.
@@ -20,7 +22,9 @@ spring-boot-starter-security: Para la implementación de la seguridad.
 spring-boot-starter-validation: Para las validaciones de los datos de entrada.
 jjwt-api, jjwt-impl, jjwt-jackson: Para la generación y validación de Tokens JWT.
 Gestor de Dependencias: Maven
+
 Base de Datos: PostgreSQL
+
 Herramienta de Pruebas: Insomnia
 
 🚀 Instalación y Puesta en Marcha
