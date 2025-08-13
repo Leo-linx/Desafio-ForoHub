@@ -1,4 +1,4 @@
-Desafío: ForoHub Interactivo
+Desafío: ForoHub Interactivo de proyecto de ALURA LATAM Y ORACLE
 Este proyecto es una API REST para un foro de discusión, desarrollada como parte de un desafío de programación. La API permite a los usuarios autenticados crear, leer, actualizar y eliminar tópicos de discusión (CRUD).
 La aplicación está construida con Java y Spring Boot 3, utilizando un esquema de seguridad basado en Tokens JWT para proteger los endpoints.
 
